@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+# 1. create Users Actions Types and Actions methods
+# 2. On submission, pass to props
+3. Pass the action method to the reducer
+
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
